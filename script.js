@@ -10,7 +10,7 @@ const products = [
   { id: 3, name: "iPhone 16 - 256gb", price: 800000, image: "Images/OIP.webp" },
   { id: 4, name: "iPhone 14 - 128gb", price: 500000, image: "Images/iphone14.webp" },
   { id: 5, name: "iPhone 12 - 64gb", price: 290000, image: "Images/iphone12.jpeg" },
-  { id: 6, name: "Samsung Galaxy S23 - 128gb", price: 450000, image: "Images/S23.jpg"},
+  { id: 6, name: "Samsung Galaxy S23 - 128gb", price: 450000, image: "Images/s23.jpg"},
   { id: 7, name: "Samsung Galaxy S24 - 256gb", price: 600000, image: "Images/s24.webp" },
   { id: 8, name: "Samsung Galaxy S25 Ultra - 256gb", price: 1200000, image: "Images/s25 ultra.webp" },
   { id: 9, name: "Google Pixel 9 Pro - 128gb", price: 750000, image: "Images/pixel9pro.webp" }
